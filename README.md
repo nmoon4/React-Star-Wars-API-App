@@ -1,3 +1,5 @@
 # React Star Wars API App
  
-https://react-star-wars-api-1.netlify.app/
+Link to site: https://react-star-wars-api-1.netlify.app/
+
+This is a simple React app that fetches Star Wars data from an API
